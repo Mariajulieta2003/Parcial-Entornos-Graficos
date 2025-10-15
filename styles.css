@@ -1,0 +1,59 @@
+//Aplicar estilos basicos al formulario de login
+
+body {
+  font-family: Arial;
+  background: #f2f2f2;
+  margin: 30px;
+}
+
+h2 {
+  text-align: center;
+}
+
+form {
+  background: white;
+  padding: 15px;
+  width: 280px;
+  margin: 40px auto;
+}
+
+label {
+  display: block;
+}
+
+input {
+  box-sizing: border-box;
+}
+
+button {
+  margin-top: 10px;
+  width: 100%;
+  padding: 8px;
+  background: #4CAF50;
+  color: white;
+}
+
+// Aplicar estilos basicos al formulario de login
+
+table {
+  width: 80%;
+  margin: 20px auto;
+}
+// formato Id, nombre y precio de los productos
+th {
+  background: #4CAF50;
+  color: white;
+}
+
+// mustra el id, nombre y precio al buscarlo en la base
+td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+a {
+  text-align: center;
+  margin-top: 20px;
+  color: #4CAF50;
+}
